@@ -4,13 +4,19 @@
   font-size: 16px;
 }
 #menu-1a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #f7da64;
 }
 #menu-1a .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #fac51c;
 }
 #menu-1a .mbr-brand__name a {
-  font-size: 25px;
+  font-size: 30px;
+}
+#header4-2 P {
+  color: #2969b0;
+}
+#header4-2 H1 {
+  text-align: left;
 }
 #msg-box4-3 .mbr-header__text {
   color: #ffffff;
@@ -31,6 +37,10 @@
   color: #e25041;
   font-size: 16px;
 }
+#image2-1l SMALL {
+  color: #f9e852;
+  font-size: 16px;
+}
 #msg-box4-u .mbr-header__text {
   color: #ffffff;
 }
@@ -39,6 +49,15 @@
 }
 #msg-box4-u .mbr-article {
   color: #ffffff;
+}
+#slider-11 H1 {
+  text-align: left;
+}
+#slider2-1m P {
+  text-align: left;
+}
+#slider-19 P {
+  text-align: center;
 }
 #header3-1b H3 {
   color: #d14841;
